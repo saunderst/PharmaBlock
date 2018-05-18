@@ -1,6 +1,6 @@
-# Pharma Block LHL Final Project
+# Pharma Block LHL Final Project by josekhon, maarsej and saunderst
 
-### PharmaBlock is
+### PharmaBlock is a proof-of-concept e-commerce solution for the pharmaceutical industry, incorporating smart contracts based on blockchain technology.
 
 
 
